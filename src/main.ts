@@ -2,4 +2,4 @@ const hello = (name: string): string => {
   return `hello ${name}`;
 };
 
-console.log(hello("adit"));
+console.log(hello("dio"));
