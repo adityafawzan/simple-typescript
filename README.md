@@ -1,6 +1,6 @@
 # simple-typescript
 
 <p>
-<ul>generate package.json : npm init -y</ul>
-<ul>generate tsconfig.json : npx tsc --init</ul>
+<ol>generate package.json : npm init -y</ol>
+<ol>generate tsconfig.json : npx tsc --init</ol>
 </p>
